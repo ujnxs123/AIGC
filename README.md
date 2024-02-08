@@ -8,12 +8,12 @@ Hello！Here is a summary of the AIGC tool and a guide to how to use it
 
 
 ## 目录
-[ai绘画](#ai绘画)  
-[ai语音](#ai语音)
-[大语言模型](#大语言模型)
-[ai图像处理](#ai图像处理)
-[ai视频](#ai视频)
-[辅助小工具](#辅助小工具)
+1. [ai绘画](#ai绘画)  
+2. [ai语音](#ai语音)
+3. [大语言模型](#大语言模型)
+4. [ai图像处理](#ai图像处理)
+5. [ai视频](#ai视频)
+6. [辅助小工具](#辅助小工具)
 
 
 
@@ -22,6 +22,22 @@ Hello！Here is a summary of the AIGC tool and a guide to how to use it
 ## ai绘画
 
 ### stable diffusion
+`Stable Diffusion`是一种潜在扩散模型（Latent Diffusion Model），能够从文本描述中生成详细的图像。它还可以用于图像修复、图像绘制、文本到图像和图像到图像等任务。SD拥有比Midjourney更加丰富的个性化功能，在经过使用者调教后可以生成更贴近需求的图片，配合一些插件以及微调，能得到一些非常惊艳的图片。其最大的优势就是开源与使用自由。
+
+**项目获取**
+|类型 |  资源地址|
+|-|-|
+|官方webui|[git](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|
+|(秋叶版)整合包|[百度网盘](https://pan.baidu.com/s/1H-OrX488OUxQwN3h-ByESg?pwd=13aw%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%9A13aw#list/path=%2F)|
+
+ 
+想部署在本地运行实际上是很简单的，实际上在仓库里已经有了全面的教程，。建议下载python时直接使用anaconda，方便进行包管理。部署环境前先使用`conda create -n your_env_name python=x.x`创建虚拟环境，再使用`conda activate your_env_name`　在里面下载所需的依赖环境
+
+使用整合包是本人比较推荐的，省时省力，一步到位，谁也别说谁，环境全封闭，也没有影响本地包的风险。
+
+当然，想用上市很简单的，但是想用好，想让其画出我想得到的效果，就需要研究一下。有兴趣的可以看这位 [Newly同学](https://space.bilibili.com/1814756990)的视频。个人认为讲的很好，通俗易懂。
+
+推荐一个下载各种绘画模型的网站，[Civitai: The Home of Open-Source Generative AI](https://civitai.com/)，需要科学上网。
 
   
 
