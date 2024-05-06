@@ -7,7 +7,7 @@ Hello! Here is a summary of the AIGC tool and a guide to how to use it
 This article aims to collect useful AIGC tools and provide relevant user guides for quick positioning and easy adoption. Contributions from everyone are welcome.
 
 
-[EN](README_EN.md)|[中文](README_CN.md)
+[EN](README_EN.md)|[中文](README.md)
 
 ## Table of Contents
 1. [AI Painting](#ai-painting)  
