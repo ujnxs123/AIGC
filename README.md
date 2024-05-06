@@ -6,7 +6,7 @@ Hello！Here is a summary of the AIGC tool and a guide to how to use it
 
 本文致力于收集那些好用的AIGC工具，并附上相关的使用指南方便快速定位与上手使用。也欢迎大家一起补充。
 
-[EN](README_EN.md)|[中文](README_CN.md)
+[EN](README_EN.md)|[中文](README.md)
 
 ## 目录
 1. [ai绘画](#ai绘画)  
