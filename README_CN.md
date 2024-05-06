@@ -6,6 +6,7 @@ Hello！Here is a summary of the AIGC tool and a guide to how to use it
 
 本文致力于收集那些好用的AIGC工具，并附上相关的使用指南方便快速定位与上手使用。也欢迎大家一起补充。
 
+[EN](README_EN.md)|[中文](README_CN.md)
 
 ## 目录
 1. [ai绘画](#ai绘画)  
@@ -28,7 +29,7 @@ Hello！Here is a summary of the AIGC tool and a guide to how to use it
 |类型 |  资源地址|
 |-|-|
 |官方webui|[git](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|
-|(秋叶版)整合包|[百度网盘](https://pan.baidu.com/s/1H-OrX488OUxQwN3h-ByESg?pwd=13aw%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%9A13aw#list/path=%2F)|
+|(秋叶版)整合包|[百度网盘](https://pan.baidu.com/s/11xBdZGdaaUfQpOCAGLyq6w?pwd=5bsf )(提取码:5bsf) |
 
  
 想部署在本地运行实际上是很简单的，实际上在仓库里已经有了全面的教程，。建议下载python时直接使用anaconda，方便进行包管理。部署环境前先使用`conda create -n your_env_name python=x.x`创建虚拟环境，再使用`conda activate your_env_name`　在里面下载所需的依赖环境
@@ -40,7 +41,15 @@ Hello！Here is a summary of the AIGC tool and a guide to how to use it
 推荐一个下载各种绘画模型的网站，[Civitai: The Home of Open-Source Generative AI](https://civitai.com/)，需要科学上网。
 
   
+### Lora Script
+`lora script` 是由秋ye大佬开发出的一个可以在界面上可视化训练lora模型的webui，页面很好看也很好用。自带官方文档，大佬非常贴心的加上了在windows与linux都能一键配置环境的脚本，如果由相关需求，非常推荐。
 
+**项目获取**
+|类型 |  资源地址|
+|-|-|
+|官方webui|[git](https://github.com/Akegarasu/lora-scripts)|
+|(秋叶版)整合包|[百度网盘](https://pan.baidu.com/s/1np8plThzVIIPPXvJ30SXPw?pwd=px90)(提取码: px90) |
+|
 
 
 
@@ -94,7 +103,7 @@ Hello！Here is a summary of the AIGC tool and a guide to how to use it
 |类型 |  资源地址|
 |-|-|
 |官方|[git](https://github.com/RVC-Boss/GPT-SoVITS)|
-|整合包|[百度网盘](https://pan.baidu.com/s/1COzOmtYQv6oM6fOl6r8OQw?pwd=ok84) |
+|整合包|[百度网盘](https://pan.baidu.com/s/1COzOmtYQv6oM6fOl6r8OQw?pwd=ok84) (提取码: ok84)|
 
 
 ## ai图像处理
